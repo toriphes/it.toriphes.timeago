@@ -1,0 +1,13 @@
+{
+	"id": "it.toriphes.timeago",
+	"name": "Time ago",
+	"description" : "This widget allows you to determine and display the 'ago' time",
+	"author": "Giulio Ganci",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2015",
+	"license":"Apache License, Version 2.0",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"timeago,time,ago,words",
+	"platforms":"android,ios"
+}

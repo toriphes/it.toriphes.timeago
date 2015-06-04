@@ -1,0 +1,13 @@
+<resources>
+	<string name="it_toriphes_timeago_seconds">meno di un minuto fa</string>
+	<string name="it_toriphes_timeago_minute">circa un minuto fa</string>
+	<string name="it_toriphes_timeago_minutes">%d minuti fa</string>
+	<string name="it_toriphes_timeago_hour">circa un ora fa</string>
+	<string name="it_toriphes_timeago_hours">%d ore fa</string>
+	<string name="it_toriphes_timeago_day">circa un giorno fa</string>
+	<string name="it_toriphes_timeago_days">%d giorni fa</string>
+	<string name="it_toriphes_timeago_month">circa un mese fa</string>
+	<string name="it_toriphes_timeago_months">%d mesi fa</string>
+	<string name="it_toriphes_timeago_year">circa un anno fa</string>
+	<string name="it_toriphes_timeago_years">%d anni fa</string>
+</resources>

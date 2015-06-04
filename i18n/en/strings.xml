@@ -1,0 +1,13 @@
+<resources>
+	<string name="it_toriphes_timeago_seconds">less than one minute ago</string>
+	<string name="it_toriphes_timeago_minute">about a minute ago</string>
+	<string name="it_toriphes_timeago_minutes">%d minutes ago</string>
+	<string name="it_toriphes_timeago_hour">about an hour ago</string>
+	<string name="it_toriphes_timeago_hours">%d hours ago</string>
+	<string name="it_toriphes_timeago_day">about a day ago</string>
+	<string name="it_toriphes_timeago_days">%d days ago</string>
+	<string name="it_toriphes_timeago_month">about a month ago</string>
+	<string name="it_toriphes_timeago_months">%d months ago</string>
+	<string name="it_toriphes_timeago_year">about a year ago</string>
+	<string name="it_toriphes_timeago_years">%d years ago</string>
+</resources>
