@@ -1,0 +1,13 @@
+<resources>
+	<string name="it_toriphes_timeago_seconds">minder dan een minuut geleden</string>
+	<string name="it_toriphes_timeago_minute">een minuut geleden</string>
+	<string name="it_toriphes_timeago_minutes">%d minuten geleden</string>
+	<string name="it_toriphes_timeago_hour">een uur geleden</string>
+	<string name="it_toriphes_timeago_hours">%d uren geleden</string>
+	<string name="it_toriphes_timeago_day">een dag geleden</string>
+	<string name="it_toriphes_timeago_days">%d dagen geleden</string>
+	<string name="it_toriphes_timeago_month">een maand geleden</string>
+	<string name="it_toriphes_timeago_months">%d maanden geleden</string>
+	<string name="it_toriphes_timeago_year">een jaar geleden</string>
+	<string name="it_toriphes_timeago_years">%d jaren geleden</string>
+</resources>
